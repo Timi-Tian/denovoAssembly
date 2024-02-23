@@ -1,0 +1,21 @@
+Assembly	SRR.asm.bp.p_ctg
+# misassemblies	119
+  # contig misassemblies	119
+    # c. relocations	61
+    # c. translocations	58
+    # c. inversions	0
+  # scaffold misassemblies	0
+    # s. relocations	0
+    # s. translocations	0
+    # s. inversions	0
+# misassembled contigs	41
+Misassembled contigs length	12606913
+# local misassemblies	36
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# mismatches	25947
+# indels	3485
+    # indels (<= 5 bp)	3002
+    # indels (> 5 bp)	483
+Indels length	17599

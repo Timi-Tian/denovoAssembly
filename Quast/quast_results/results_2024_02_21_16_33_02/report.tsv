@@ -1,0 +1,55 @@
+Assembly	SRR.asm.bp.p_ctg
+# contigs (>= 0 bp)	49
+# contigs (>= 1000 bp)	49
+# contigs (>= 5000 bp)	49
+# contigs (>= 10000 bp)	49
+# contigs (>= 25000 bp)	21
+# contigs (>= 50000 bp)	17
+Total length (>= 0 bp)	12730920
+Total length (>= 1000 bp)	12730920
+Total length (>= 5000 bp)	12730920
+Total length (>= 10000 bp)	12730920
+Total length (>= 25000 bp)	12243602
+Total length (>= 50000 bp)	12121907
+# contigs	49
+Largest contig	1506376
+Total length	12730920
+Reference length	12157105
+GC (%)	38.44
+Reference GC (%)	38.15
+N50	809047
+NG50	809047
+N90	350316
+NG90	441569
+auN	820915.5
+auNG	859662.7
+L50	6
+LG50	6
+L90	15
+LG90	14
+# misassemblies	119
+# misassembled contigs	41
+Misassembled contigs length	12606913
+# local misassemblies	36
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	1 + 17 part
+Unaligned length	112206
+Genome fraction (%)	97.420
+Duplication ratio	1.065
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	205.78
+# indels per 100 kbp	27.64
+Largest alignment	843303
+Total aligned length	12608885
+NA50	273893
+NGA50	284119
+NA90	73482
+NGA90	109892
+auNA	357642.4
+auNGA	374523.1
+LA50	13
+LGA50	12
+LA90	46
+LGA90	40
